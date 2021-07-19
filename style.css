@@ -272,8 +272,7 @@ h4 {
 
 .waya-logo {
   padding: 25px 25px;
-  width: 10%;
-  height: 10%;
+  width: 100px;
   display: inline-block;
 }
 
@@ -281,7 +280,6 @@ h4 {
   display: inline-block;
   float: right;
   padding-top: 35px;
-  padding-right: 10%;
 }
 
 .fpgc {
@@ -290,8 +288,7 @@ h4 {
 
 .fpgc-logo {
   padding: 25px 25px;
-  width: 10%;
-  height: 10%;
+  width: 100px;
   display: inline-block;
 }
 
@@ -299,7 +296,6 @@ h4 {
   display: inline-block;
   float: right;
   padding-top: 35px;
-  padding-right: 10%;
 }
 
 .right-column {
