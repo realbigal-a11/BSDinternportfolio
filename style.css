@@ -105,15 +105,18 @@ h4 {
 
 .contact h3 {
   text-decoration: none;
-}
-
-.emailphone h3 {
-  color: black;
+  color : black;
 }
 
 .email {
   padding-top: 5px;
 }
+
+.emailphone {
+  color: black;
+}
+
+
 
 .lower-three-quarters {
   max-width: 1125px;
