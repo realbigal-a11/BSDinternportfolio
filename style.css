@@ -41,7 +41,7 @@ h4 {
 }
 
 .upper-quarter {
-  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.edkbGhQbnzfSQqj-qaTPMQHaEK%26pid%3DApi&f=1');
+  background-image: url('https://i.imgur.com/hoj35P6.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -135,7 +135,7 @@ h4 {
 }
 
 .left-column header {
-  background-color: #000000;
+  background-color: #0070ef;
   padding: 10px;
 }
 
@@ -173,7 +173,7 @@ h4 {
 				}
 
 .experience {
-  border: 2px solid #000000;
+  border: 2px solid #0070ef;
   margin-bottom: 25px;
   background-color: #f2f2f2;
   -webkit-box-shadow: 0px 22px 87px -24px rgba(0, 0, 0, 0.75);
@@ -354,7 +354,7 @@ h4 {
 
 .skills {
   background-color: #f2f2f2;
-  border: 2px solid #000000;
+  border: 2px solid #0070ef;
   margin-bottom: 25px;
   -webkit-box-shadow: 0px 22px 87px -24px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 22px 87px -24px rgba(0, 0, 0, 0.75);
@@ -445,7 +445,7 @@ h4 {
 }
 .Awards {
   background-color: #f2f2f2;
-  border: 2px solid #000000;
+  border: 2px solid #0070ef;
   margin-top:25px;
   padding-bottom: 40px;
   -webkit-box-shadow: 0px 22px 87px -24px rgba(0, 0, 0, 0.75);
@@ -488,7 +488,7 @@ h4 {
       font-weight: 300;
       font-size: 12pt;
       color: #FFF;
-      background-color: #000000;
+      background-color: #0070ef;
       padding: 12px 60px 12px 30px;
       margin: 5%;
     }
