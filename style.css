@@ -570,5 +570,9 @@ h4 {
         }
       }
 
-
-
+      @media only screen and (max-width: 1050px) {
+        .personal-experience h3 {
+          width: 10px;
+          margin: auto;
+        }
+      }
