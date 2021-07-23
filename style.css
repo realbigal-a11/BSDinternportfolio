@@ -430,10 +430,12 @@ h4 {
 
 .center-hobbies {
   display: inline-block;
+  padding-left: 10px;
 }
 
 .right-hobbies {
   display: inline-block;
+  padding-left: 10px;
 }
 
 .left-traits {
