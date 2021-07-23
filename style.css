@@ -408,9 +408,12 @@ h4 {
   font-family: 'Open Sans';
   font-weight: 300;
   font-size: 12pt;
-  color: #535353;
-  padding-bottom: 5px;
+  color: #0070ef;
+  padding: 12px 60px 12px 30px;
+  margin: 5%;
 }
+
+
 
 .traits-list {
   padding-bottom: 8px;
