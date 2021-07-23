@@ -425,6 +425,7 @@ h4 {
 
 .left-hobbies {
   display: inline-block;
+  padding-left: 10px;
 }
 
 .center-hobbies {
