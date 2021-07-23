@@ -408,9 +408,11 @@ h4 {
   font-family: 'Open Sans';
   font-weight: 300;
   font-size: 12pt;
-  color: #0070ef;
+  background-color: #0070ef;
   padding: 12px 60px 12px 30px;
   margin: 5%;
+  color: #FFF;
+
 }
 
 
